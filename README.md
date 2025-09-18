@@ -8,7 +8,7 @@ na área de "Nome de evento", você pode colocar o nome do evento em que você i
 na área de "Data e hora":
 <img width="563" height="101" alt="image" src="https://github.com/user-attachments/assets/e08eb418-afb9-4714-b497-fa7b0e8c4643" />
 
-Você deve clica-lá com o botão esquerdo do Mouse para selecionar o Dia do evento, e o horário logo abaixo(Obs: não é possível criar um evento em uma data que já passou, pois não faria sentido):
+Você deve clicar com o botão esquerdo do Mouse para selecionar o Dia do evento, e o horário logo abaixo(Obs: não é possível criar um evento em uma data que já passou, pois não faria sentido):
 <img width="353" height="437" alt="image" src="https://github.com/user-attachments/assets/058b8921-5542-4ecd-9f4e-c8d9a8daacbc" />
 
 E na área "Local(definido pelo mapa)":
